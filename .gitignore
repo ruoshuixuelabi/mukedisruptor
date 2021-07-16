@@ -1,2 +1,6 @@
-# 项目排除路径
-/disruptor-netty-com/target/
+.idea
+*/.mvn
+*/mvnw.cmd
+*/mvnw
+*/target
+*.iml
